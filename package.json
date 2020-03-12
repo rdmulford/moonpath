@@ -2,7 +2,9 @@
     "name": "moon-presence",
     "displayName": "Moonpath",
     "description": "My guiding moonlight...",
+    "repository": "https://github.com/rdmulford/moonpath",
     "version": "0.0.1",
+    "publisher": "ridamu",
     "engines": {
         "vscode": "^1.42.0"
     },
